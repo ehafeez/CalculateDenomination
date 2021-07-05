@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dODZpCyqZH8X+japVs3N433Oc7hAidfVi0Tys/AjEarzNcDfXmF2ZK2hJ1o1xawAznNM0PsI9oBz6Gxb5ac5og==",
+  "success": true,
+  "projectFilePath": "C:\\Personal\\epay\\Denomination\\CalculateDenomination\\CalculateDenomination.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hafeez\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

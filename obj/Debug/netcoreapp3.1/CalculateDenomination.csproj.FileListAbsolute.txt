@@ -1,0 +1,12 @@
+C:\Personal\epay\Denomination\CalculateDenomination\bin\Debug\netcoreapp3.1\CalculateDenomination.exe
+C:\Personal\epay\Denomination\CalculateDenomination\bin\Debug\netcoreapp3.1\CalculateDenomination.deps.json
+C:\Personal\epay\Denomination\CalculateDenomination\bin\Debug\netcoreapp3.1\CalculateDenomination.runtimeconfig.json
+C:\Personal\epay\Denomination\CalculateDenomination\bin\Debug\netcoreapp3.1\CalculateDenomination.runtimeconfig.dev.json
+C:\Personal\epay\Denomination\CalculateDenomination\bin\Debug\netcoreapp3.1\CalculateDenomination.dll
+C:\Personal\epay\Denomination\CalculateDenomination\bin\Debug\netcoreapp3.1\CalculateDenomination.pdb
+C:\Personal\epay\Denomination\CalculateDenomination\obj\Debug\netcoreapp3.1\CalculateDenomination.AssemblyInfoInputs.cache
+C:\Personal\epay\Denomination\CalculateDenomination\obj\Debug\netcoreapp3.1\CalculateDenomination.AssemblyInfo.cs
+C:\Personal\epay\Denomination\CalculateDenomination\obj\Debug\netcoreapp3.1\CalculateDenomination.csproj.CoreCompileInputs.cache
+C:\Personal\epay\Denomination\CalculateDenomination\obj\Debug\netcoreapp3.1\CalculateDenomination.dll
+C:\Personal\epay\Denomination\CalculateDenomination\obj\Debug\netcoreapp3.1\CalculateDenomination.pdb
+C:\Personal\epay\Denomination\CalculateDenomination\obj\Debug\netcoreapp3.1\CalculateDenomination.genruntimeconfig.cache
